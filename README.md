@@ -88,4 +88,4 @@ Elbow and silhouette methods were used to determine the optimal number of cluste
 Author
 Shailesh Jangam
 Data Science Enthusiast | https://www.linkedin.com/in/shailesh-jangam
-Email: shaileshjangam79@email.com
+Email: shaileshjangam79@gmail.com
